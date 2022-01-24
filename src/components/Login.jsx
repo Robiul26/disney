@@ -76,6 +76,7 @@ border: 1px solid transparent;
 border-radius: 4px;
 text-transform: uppercase;
 cursor: pointer;
+user-select: none;
 &:hover{
     background-color: #0483ee;
 }
